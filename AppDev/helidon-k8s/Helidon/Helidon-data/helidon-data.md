@@ -53,10 +53,13 @@ If you want to understand JPA and JTA in a lot of detail there are courses avail
 
 ---
 
-[![Helidon database capabilities lab Introduction Video](https://img.youtube.com/vi/-qNDJtjGfhQ/0.jpg)](https://youtu.be/-qNDJtjGfhQ "Helidon database capabilities lab introduction video")
 
 
 ### Configuring the project to be personal to you
+
+
+[![Helidon database capabilities lab Introduction Video](https://img.youtube.com/vi/-qNDJtjGfhQ/0.jpg)](https://youtu.be/-qNDJtjGfhQ "Helidon database capabilities lab introduction video")
+
 For some version of this lab all attendees will are operating on a shared database, updating the same table. To ensure that your work doesn't interfere with other peoples work you need to provide a unique identity for yourself
 
 - In Eclipse, switch to the **helidon-labs-stockmanager** project.
