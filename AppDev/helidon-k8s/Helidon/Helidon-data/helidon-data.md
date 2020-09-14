@@ -121,7 +121,6 @@ public class StockLevel {
 
 ---
 <details><summary><b>The annotations explained</b></summary>
-<p>
 
 `@Data`, `@NoArgsConstructor` and `@AllArgsConstructor` are Lombok annotations that tell Lombok to automatically create the constructors,getters and setters, toString, equals and hashcode. We could of course do this manually or use tooling in the IDE to generate them, but using Lombok means that the source code is less cluttered and also that if we change the class (say by adding new fields) all of the related methods and constructors update automatically.
 
@@ -138,7 +137,7 @@ On our fields in the class
 
 `@Column` defines the details of the column name, again it can be generated automatically, but this will force a specific name.
 
-</p></details>
+</details>
 
 ---
 
