@@ -39,10 +39,12 @@ If you wanted to change the database instance or the JPA implementation in a dep
 	</p><p>
 As mentioned in the helidon core labs we are only looking at the programming aspects here. We do not cover the Maven pom.xml file. If you want to use this code as a starting point for your own projects then we strongly recommend looking at the pom.xml file so you can see what dependencies are made available to the projects.
 	</p>
-	<h4>What's in the lab</h4><p>
+	<h4>What's in the lab</h4>
+	<p>
 We will be looking at the helidon-labs-stockmanager project. This set of classes operate on the database and provides Create Read, Update, Delete (CRUD) functionality for the database front end, specifically modifying the database tables. It will be called by the storefront.
 	</p>
-	<h4>What's not in this lab</h4><p>
+	<h4>What's not in this lab</h4>
+	<p>
 This lab does not attempt to go into all of the detail or JPA and JTA, the goal is to see how they can be handled in a Helidon based microservice. Because of that the lab does not go into great about how those Java API's operate. 
 	</p><p>
 If you want to understand JPA and JTA in a lot of detail there are courses available, and of course lots of books on the subject
