@@ -19,7 +19,7 @@ This video is an introduction to the Helidon database capabilities lab. Once you
 </p>
 </details>
 
-[![Helidon database capabilities lab Introduction Video](https://img.youtube.com/vi/-qNDJtjGfhQ/0.jpg)](https://youtu.be/-qNDJtjGfhQ "Helidon database capabilities lab introduction video")
+
 
 ---
 
@@ -51,6 +51,7 @@ If you want to understand JPA and JTA in a lot of detail there are courses avail
 
 ---
 
+[![Helidon database capabilities lab Introduction Video](https://img.youtube.com/vi/-qNDJtjGfhQ/0.jpg)](https://youtu.be/-qNDJtjGfhQ "Helidon database capabilities lab introduction video")
 
 
 ### Configuring the project to be personal to you
