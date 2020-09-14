@@ -15,9 +15,10 @@ This video is an introduction to the Helidon database capabilities lab. Once you
 
 [![Helidon database capabilities lab Introduction Video](https://img.youtube.com/vi/-qNDJtjGfhQ/0.jpg)](https://youtu.be/-qNDJtjGfhQ "Helidon database capabilities lab introduction video")
 
+[](youtube:-qNDJtjGfhQ)
 </p>
 </details>
-
+[](youtube:-qNDJtjGfhQ)
 ---
 
 <details><summary><b>Introduction to Databases</b></summary>
