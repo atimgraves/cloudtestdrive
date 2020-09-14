@@ -10,42 +10,50 @@
 
 <details><summary><b>Self guided student - video introduction</b></summary>
 <p>
-
 This video is an introduction to the Helidon database capabilities lab. Once you've watched it please press the "Back" button on your browser to return to the labs.
-
+	</p>
+	<p>
+[](youtube:-qNDJtjGfhQ)
+		
 [![Helidon database capabilities lab Introduction Video](https://img.youtube.com/vi/-qNDJtjGfhQ/0.jpg)](https://youtu.be/-qNDJtjGfhQ "Helidon database capabilities lab introduction video")
 
 </p>
 </details>
-
+[](youtube:-qNDJtjGfhQ)
 ---
 
 <details><summary><b>Introduction to Databases</b></summary>
 <p>
-
-
 Unlike SPRING with the SPRINGData projects microprofile (and thus Helidon) does not currently have a built in mechanism for accessing databases. This is however something that is being looked at and hopefully at some point there will be a Microprofile standard for accessing data which Helidon can implement. At that point these labs will be updated to reflect the changes.
-
+	</p>
+	<p>
 However, just because Microprofile and thus Helidon do not have a set of data access annotations and abstractions themselves does not mean you can't access databases (and other persistence solutions) from with Helidon microservices. You simply use the existing technologies such as the Java Persistence API (JPA) and the JTA (Java Transaction API)
-
+	</p>
+	<p>
 In this set of lab modules we will look at how we can combine those with Helidon techniques such as the configuration mechanisms to implement database accesses.
-
+</p>
+<p>
 For the labs we will be using the **Oracle Autonomous Transaction Processing database** running in the Oracle Cloud, and have already installed in the client VM maven repository the required OJDBC jar files to support this. We have also downloaded into the environment the "Wallet" file for the database which defines the database configuration, access information and such like.
-
+	</p>
+	<p>
 We are using the Hibernate implementation of the JPA standard to actually do the work of accessing the database. 
-
+	</p>
+	<p>
 If you wanted to change the database instance or the JPA implementation in a deployment it's simply the case of getting the right driver classes and updating the configuration to use them.
-
+	</p>
+<p>
 As mentioned in the helidon core labs we are only looking at the programming aspects here. We do not cover the Maven pom.xml file. If you want to use this code as a starting point for your own projects then we strongly recommend looking at the pom.xml file so you can see what dependencies are made available to the projects.
-
-**What's in the lab**
+	</p>
+	<p>
+	<h4>What's in the lab</h4>
+	<p>
 We will be looking at the helidon-labs-stockmanager project. This set of classes operate on the database and provides Create Read, Update, Delete (CRUD) functionality for the database front end, specifically modifying the database tables. It will be called by the storefront.
-
-**What's not in this lab**
+	</p>
+	<h4>What's not in this lab</h4>
+	<p>
 This lab does not attempt to go into all of the detail or JPA and JTA, the goal is to see how they can be handled in a Helidon based microservice. Because of that the lab does not go into great about how those Java API's operate. 
-
+	</p><p>
 If you want to understand JPA and JTA in a lot of detail there are courses available, and of course lots of books on the subject
-
 </p></details>
 
 ---
