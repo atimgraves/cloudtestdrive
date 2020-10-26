@@ -38,6 +38,7 @@ As we cover quite some theoretical concepts, we included pretty verbose explanat
 
 ---
 
+change made 16:32:00
 <details><summary><b>Click this part to expand !</b></summary>
 
 If you feel you are already pretty familiar with a specific concept, you can just skip it, or read quickly through the text, then re-collapse the text section by re-clicking on the title. 
