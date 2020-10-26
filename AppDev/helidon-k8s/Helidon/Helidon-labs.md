@@ -10,20 +10,18 @@ This set of lab instructions is based on the virtual machine image dated 2020-04
 
 ### **Introduction**
 
+udate 16:43
 <details><summary><b>Self guided student - video introduction</b></summary>
-<p>
-
 This video is an introduction to the Helidon labs. Once you've watched it please press the "Back" button on your browser to return to the labs.
 
 [![Helidon labs Introduction Video](https://img.youtube.com/vi/182KYHSrf5A/0.jpg)](https://youtu.be/182KYHSrf5A "Helidon labs introduction video")
 
-</p>
 </details>
 
 ---
 
 <details><summary><b>What is Helidon?</b></summary>
-<p>
+
 
 [Helidon](https://helidon.io) is an open source implementation of [Eclipse Microprofile](https://microprofile.io/) from Oracle. Through these labs we talk about Helidon, but it's key to remember that the work we're doing is applicable to *any* microprofile implementation, of which Helidon is one.
 
@@ -35,7 +33,7 @@ This lab aims to introduce you to the major capabilities provided by the Helidon
 
 We are using Helidon MP, this is an annotation based framework, where to utilize it you just place annotations (e.g. `@Path("/mypath"`) on a class or method. There is no need to modify the code beyond that. Helidon also comes in a variety called Helidon SE. The SE framework however requires you to actually make the Java method calls yourself, so you'd have to change your code. Helidon MP actually converts the annotations at runtime into calls to the Helidon SE Java API, so there is no need to change your logic. Helidon MP is also similar in style to frameworks like __Spring__ which are also annotation based, so we've chosen the MP version for these labs.
 
-</p></details>
+</details>
 
 
 
