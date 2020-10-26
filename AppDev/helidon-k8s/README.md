@@ -39,11 +39,9 @@ As we cover quite some theoretical concepts, we included pretty verbose explanat
 ---
 
 <details><summary><b>Click this part to expand !</b></summary>
-<p>
 
 If you feel you are already pretty familiar with a specific concept, you can just skip it, or read quickly through the text, then re-collapse the text section by re-clicking on the title. 
 
-</p>
 </details>
 
 ---
@@ -57,7 +55,6 @@ To support those who are doing the labs in a self-guided mode we have created an
 Each video is in a expandable section, see the one below. If you are a self guided student open it and click on the video image to be taken to the video streaming web site where you can play it. Once you've finished just click the back button to return to these instructions.
 
 <details><summary><b>Self guided student - video introduction</b></summary>
-<p>
 
 This video is an introduction to this lab. Once you've watched it please press the "Back" button on your browser to return to the labs.
 
@@ -65,8 +62,6 @@ Note. The current videos were recorded during the lock down, hence the poor soun
 
 [![Introduction Video](https://img.youtube.com/vi/9bYn7huyQ5g/0.jpg)](https://youtu.be/9bYn7huyQ5g "Labs introduction video")
 
-
-</p>
 </details>
 
 ---
